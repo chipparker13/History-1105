@@ -1,5 +1,5 @@
 ---
-title: "American Exclusion of Asian Migrants in 1880s"
+title: "Exclusion of Asian Migrants in the 1880s"
 author: Chip Parker
 layout: scrollstory
 header-image: images/Raton_1882.jpg
@@ -7,7 +7,7 @@ thumbnail: images/Raton_1882.jpg
 summary: How did Americans in New Mexico react to the arrival of the Chinese migrants in the 1880s.
 ---
 
-# American Exclusion of Asian Migrants in 1880s
+# Exclusion of Asian Migrants in the 1880s
 
 My topic is the reactions of the Americans to the arrival of the Chinese immigrants who migrated East in the 1880s. The primary location of these events will be in Albuquerque and New Mexico. For a long time the immigrants from China received significant hostility from the American citizens. This is significant toward the AAPI and New Mexico history because it is focused on the Chinese who immigrated into New Mexico in the 1880s, which relates to Asian American history in New Mexico. 
 
