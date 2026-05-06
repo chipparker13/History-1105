@@ -1,20 +1,19 @@
 ---
-title: "Title of HIS 1105 project"
-author: Your name
+title: "American Exclusion of Asian Migrants in 1880s"
+author: Chip Parker
 layout: scrollstory
 header-image: images/Raton_1882.jpg
 thumbnail: images/Raton_1882.jpg
-summary: One sentence summary of your project 
+summary: How did Americans in New Mexico react to the arrival of the Chinese migrants in the 1880s.
 ---
 
-# Title of Project
+# American Exclusion of Asian Migrants in 1880s
 
-Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT) that inform your research project. Try to use accessible language that a high schooler would understand. STATE YOUR ARGUMENT ABOUT THIS EVENT/PERSON/ISSUE being significant for AAPI and New Mexico History. Remember that you will connect all the remaining web page content to this argument.  
-100-150 words
+My topic is the reactions of the Americans to the arrival of the Chinese immigrants who migrated East in the 1880s. The primary location of these events will be in Albuquerque and New Mexico. For a long time the immigrants from China received significant hostility from the American citizens. This is significant toward the AAPI and New Mexico history because it is focused on the Chinese who immigrated into New Mexico in the 1880s, which relates to Asian American history in New Mexico. 
 
-## Subheader 1
+## General Understanding of the Topic
 
-150-200 words:  Explain why this event was newsworthy, drawing upon specific language or descriptions in the primary sources as citing any secondary sources to support your interpretation about why this event was newsworthy at the time it took place.[^youchoose] 
+The Asian immigrants who have traveled into the land of the United States were seen as a significant hinderance for the large majority of the population of the United States. The immigrants were thought of as competition to the American businesses and the working class. Why pay for an American worker when you could hire 2 Chinese workers for the same price. Additionally, Asian run businesses would charge significantly less than the same service ran by Americans. The hatred toward the Chinese, led to the Chinese exclusion Act of 1882 which was meant to restrict the amount of Chinese able to enter the United States. Through this hatred toward the Chinese, verbal and physical violence took place against Chinese businesses and the general Chinese population. [^youchoose] 
 
 [^youchoose]:Author-first-name Author-last-name, *Title-in-italics* (Publisher:Year), page-number.
 
@@ -32,9 +31,11 @@ You may divide your text by inserting a pull from a primary or secondary source 
 
 [^youchoose2]:Another-author-first-name Another-author-last-name, *Title-in-italics* (Publisher:Year), page-number.
 
-## Subheader 2
+## Why does it relate to AAPI and New Mexico History 
 
-Here's why this event relates to Asian American and Pacific Islander (AAPI) history: Insert your text that explains how this specific event relates to to the history of the ethnic group AND AAPI history. 100-150 words 
+This event relates to Asian American and Pacific Islanders because it is the introduction of the recognition of  the Asians to be considered a part of the American people. Though this doesn’t mean that they are necessarily seen as accepted members of American society, but it is the first time where mass Asian immigrants came to New Mexico to find a better life from hardship in the west. The Chinese immigrants came to the United States during the Gold rush in the 1850s but never had mass migration East until the late 1870s – early 1880s, where they started to be seen as a problem to the New Mexico locals. 
+
+Discrimination toward migrating Chinese was increased due to the Knights of Labor who ordered members to not interact with merchants who did business with the Chinese. This caused the merchants to refuse to sell to the Chinese to keep their business with the more significant percentage of the population of the Whites.
 
 {% capture Removal_Chinese_text %}
 The coding for this section positions this text in relation to the image. *The Las Vegas Gazette* expressed confidence that the town of Raton  succesfully would remove Chinese settlers without the Knights of Labor committing acts of violence.  
@@ -50,7 +51,13 @@ The coding for this section positions this text in relation to the image. *The L
 
 ## Subheader 3 
 
-Use this section to explain how this event relates to New Mexico history. What does this event tell us about New Mexico (or the specific city) in relation to other territories, states, or local communities? 
+The early 1880s was when the migrating Chinese started to be seen as a problem to the New Mexico residents. The problems that the local New Mexico residents found about the migrating Chinese was the fact that the Chinese were willing to work for cheaper and would sell items for far less than the local shopkeepers. The distain the NM locals had for the Chinese led to events like the BlackHawk mine incident, where 32 miners forced out 3 Chinese men from the boarding house. The third Chinese man who had been there longest was paid off to keep quiet and the 32 miners were also paid off and later in the night, a fire erupted in the wood yard burning over 100 cords of the company’s wood. I would assume that the fire was caused by some of the miners angry over the fact that the BlackHawk company had hired the Chinese in the first place. [^youchoose3]
+
+[^youchoose3]::Another-William Another-Mullane, *This is Silver City, 1885, 1886, 1887, Vol. 2.* (1964), page 4.
+
+The Asians were seen as a roadblock to lower and middle class Americans from starting their own businesses or acquiring jobs since the Asian Americans would work for cheaper. This increased the hatred for the Chinese to be from not just established business owners, but also aspiring poor Americans looking to have a better life after migrating west. 
+
+The Chinese laundrymen charged less than half of the price that the local American and Mexicans. This added to the hatred that the Americans had for the Chinese who had migrated into their area. This ushered forward the Americans want to force the Chinese out of their territory.
 
 {% include images/figure-wrap.html
   image-path="images/Chinese_leave_Raton.jpg"
@@ -68,6 +75,6 @@ If you inserted a direct quote, you may complete the rest of your text for secti
 
 ## Concluding Subheader 4:
 
-Insert your text here.  Why is this event historically signficant?  What does it teach us? What further research questions does it raise? 
+From the excessive hatred toward the Chinese not only in New Mexico but across the United States, the Chinese Exclusion act of 1882 was created to restrict the immigration of Chinese into the United States. This only occurred a few years after the major eastward migration of the Chinese, showing the urgency the Americans (Primarily white Americans) had in reducing the number of Chinese immigrating to the Country. A lot of hatred toward the Chinese was caused from the stealing of business and the ability for local Americans to continue living in their current way of life. The arrival of the Chinese made the locals either adapt to living more humbly or force the Chinese out of their territory which is what they chose, which resulted in the events of hatred and violence toward the Chinese and adding to the racial discrimination. 
 
 **Further information:** You may highlight key sources that provide more information for readers. This is where you also may provide links to other websites that relate to the topic. Be sure to explain why these links might be of interest to the reader in relation to your topic. 
