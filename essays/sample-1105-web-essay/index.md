@@ -18,17 +18,6 @@ The Asian immigrants who have traveled into the land of the United States were s
 [^youchoose]:Author-first-name Author-last-name, *Title-in-italics* (Publisher:Year), page-number.
 
 
-{% include images/figure-wrap.html
-  image-path="images/Raton_let_the_boycotters_kill_them.jpg"
-  image-position="right"
-  image-width="50%"
-  caption="The Silver City Enterprise editor questioned why some Raton residents would protect the Chinese.[Source: Sierra County Advocate](January 23, 1886, 2.)"
-%}
-
-{% include typography/pullquote.html text="\"It is a shame for the people of Raton to 'protect' the Chinese. They ought to stand aside and let the boycotters kill them...\""%}
-
-You may divide your text by inserting a pull from a primary or secondary source here that highlights why this event is newsworthy, as noted with the highlighted quote from the newspaper image. If you do not wish to break up your text with a direct quote you can delete the pull quote.[^youchoose2] 
-
 [^youchoose2]:Another-author-first-name Another-author-last-name, *Title-in-italics* (Publisher:Year), page-number.
 
 ## Why does it relate to AAPI and New Mexico History 
@@ -42,10 +31,10 @@ The coding for this section positions this text in relation to the image. *The L
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/Concerns_Raton.jpg"
+  image-path="images/KnightsOfLabor.jpg"
   image-position="left"
   image-width="70%"
-  caption="Insert your caption for Image B here. [Source: Insert brief source here, e.g. Las Vegas Gazette] (Month day, year, page number.)"
+  caption=" [Source:Las Vegas Gazette] (January 13, 1886, 3.)"
   text=Removal_Chinese_text 
 %}
 
@@ -53,28 +42,31 @@ The coding for this section positions this text in relation to the image. *The L
 
 The early 1880s was when the migrating Chinese started to be seen as a problem to the New Mexico residents. The problems that the local New Mexico residents found about the migrating Chinese was the fact that the Chinese were willing to work for cheaper and would sell items for far less than the local shopkeepers. The distain the NM locals had for the Chinese led to events like the BlackHawk mine incident, where 32 miners forced out 3 Chinese men from the boarding house. The third Chinese man who had been there longest was paid off to keep quiet and the 32 miners were also paid off and later in the night, a fire erupted in the wood yard burning over 100 cords of the company’s wood. I would assume that the fire was caused by some of the miners angry over the fact that the BlackHawk company had hired the Chinese in the first place. [^youchoose3]
 
-[^youchoose3]::Another-William Another-Mullane, *This is Silver City, 1885, 1886, 1887, Vol. 2.* (1964), page 4.
+[^youchoose3]::William Mullane, *This is Silver City, 1885, 1886, 1887, Vol. 2.* (1964), page 4.
 
 The Asians were seen as a roadblock to lower and middle class Americans from starting their own businesses or acquiring jobs since the Asian Americans would work for cheaper. This increased the hatred for the Chinese to be from not just established business owners, but also aspiring poor Americans looking to have a better life after migrating west. 
 
 The Chinese laundrymen charged less than half of the price that the local American and Mexicans. This added to the hatred that the Americans had for the Chinese who had migrated into their area. This ushered forward the Americans want to force the Chinese out of their territory.
 
 {% include images/figure-wrap.html
-  image-path="images/Chinese_leave_Raton.jpg"
+  image-path="images/HalfPriceLaundry.jpg"
   image-position="center"
   image-width="70%"
-  caption="Insert your caption for Image C here. At least a few Chinese settlers left not only Raton but the state of New Mexico in response to pressure from the Knights of Labor. [Source: Las Vegas Gazette] (December 13, 1882, 4.)"
+  caption=" The Chinese laundrymen charged less than half of the price that the local American and Mexicans.  [Source: Las Vegas Gazette] (March 17, 1886, 2.)"
   text=Chinese_leave_Raton_text 
 %}
 
 
-
-{% include typography/pullquote.html text="\"The most important thing about tamales isn't the recipe. It's the hands that made them. Whose recipe? Whose tradition? Whose labor? These are the questions that matter.\"" %}
-
-If you inserted a direct quote, you may complete the rest of your text for section 3 here. 
-
 ## Concluding Subheader 4:
 
 From the excessive hatred toward the Chinese not only in New Mexico but across the United States, the Chinese Exclusion act of 1882 was created to restrict the immigration of Chinese into the United States. This only occurred a few years after the major eastward migration of the Chinese, showing the urgency the Americans (Primarily white Americans) had in reducing the number of Chinese immigrating to the Country. A lot of hatred toward the Chinese was caused from the stealing of business and the ability for local Americans to continue living in their current way of life. The arrival of the Chinese made the locals either adapt to living more humbly or force the Chinese out of their territory which is what they chose, which resulted in the events of hatred and violence toward the Chinese and adding to the racial discrimination. 
+
+{% include images/figure-wrap.html
+  image-path="images/HellsCanyonMemorial.jpg"
+  image-position="center"
+  image-width="70%"
+  caption="The event of Hells Canyon was when Chinese men were attacked and killed by a gang for the gold the Chinese were carrying. This shows the unveiling of a memorial for the Chinese men killed during Hells Canyon. [Source: Oregon Historical Society] (Fall, 2013, 2.)"
+  text=Chinese_leave_Raton_text 
+%}
 
 **Further information:** You may highlight key sources that provide more information for readers. This is where you also may provide links to other websites that relate to the topic. Be sure to explain why these links might be of interest to the reader in relation to your topic. 
