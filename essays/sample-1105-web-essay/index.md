@@ -2,8 +2,8 @@
 title: "Exclusion of Asian Migrants in the 1880s"
 author: Chip Parker
 layout: scrollstory
-header-image: images/Raton_1882.jpg
-thumbnail: images/Raton_1882.jpg
+header-image: images/ChineseExlusionActPoster.jpeg
+thumbnail: images/ChineseExlusionActPoster.jpeg
 summary: How did Americans in New Mexico react to the arrival of the Chinese migrants in the 1880s.
 ---
 
