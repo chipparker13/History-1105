@@ -34,9 +34,9 @@ Discrimination toward migrating Chinese was increased due to the Knights of Labo
 
 ## Relation to New Mexico
 
-The early 1880s was when the migrating Chinese started to be seen as a problem to the New Mexico residents. The problems that the local New Mexico residents found about the migrating Chinese was the fact that the Chinese were willing to work for cheaper and would sell items for far less than the local shopkeepers. The distain the NM locals had for the Chinese led to events like the BlackHawk mine incident, where 32 miners forced out 3 Chinese men from the boarding house. The third Chinese man who had been there longest was paid off to keep quiet and the 32 miners were also paid off and later in the night, a fire erupted in the wood yard burning over 100 cords of the company’s wood. I would assume that the fire was caused by some of the miners angry over the fact that the BlackHawk company had hired the Chinese in the first place. [^youchoose1]
+The early 1880s was when the migrating Chinese started to be seen as a problem to the New Mexico residents. The problems that the local New Mexico residents found about the migrating Chinese was the fact that the Chinese were willing to work for cheaper and would sell items for far less than the local shopkeepers. The distain the NM locals had for the Chinese led to events like the BlackHawk mine incident, where 32 miners forced out 3 Chinese men from the boarding house. The third Chinese man who had been there longest was paid off to keep quiet and the 32 miners were also paid off and later in the night, a fire erupted in the wood yard burning over 100 cords of the company’s wood. I would assume that the fire was caused by some of the miners angry over the fact that the BlackHawk company had hired the Chinese in the first place. [^youchoose1] 
 
-[^youchoose1]: William Mullane, *This is Silver City, 1885, 1886, 1887, Vol. 2.* (1964), page 4.
+[^youchoose1]: William Mullane, *This is Silver City, 1885, 1886, 1887, Vol. 2.* (1964), page 4., Andrew Gyory, *Closing the Gate, Race, Politics, and the Chinese Exclusion Act* (1998)
 
 The Asians were seen as a roadblock to lower and middle class Americans from starting their own businesses or acquiring jobs since the Asian Americans would work for cheaper. This increased the hatred for the Chinese to be from not just established business owners, but also aspiring poor Americans looking to have a better life after migrating west. 
 
@@ -65,4 +65,3 @@ From the excessive hatred toward the Chinese not only in New Mexico but across t
   text=Chinese_leave_Raton_text 
 %}
 
-**Further information:** You may highlight key sources that provide more information for readers. This is where you also may provide links to other websites that relate to the topic. Be sure to explain why these links might be of interest to the reader in relation to your topic. 
